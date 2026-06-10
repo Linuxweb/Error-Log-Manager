@@ -4,6 +4,7 @@ This plugin is used to find all error logs in the /home directory where the user
 ## Features
 - The plugin will automatically detect whether you are running FPM or Legacy and find the files accordingly.
 - If you have ConfigServer Installed, you can navigate to the file directory through the plugin.
+- File scanning will stop if the server load excedes a pre-defined load limit.
 - A whole lotta fun.
 
 ---
