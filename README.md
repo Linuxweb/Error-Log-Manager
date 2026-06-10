@@ -22,7 +22,7 @@ With this nifty command, you can download and install the plugin directly from t
 You should now see that the plugin has been installed, and is available under "Plugins".
 
 ## Uninstall
-To uninstall this plugin, simply use the command `/usr/src/errorlogmanager && ./uninstall.sh`. This will delete the compressed file as well as the installed plugin.
+To uninstall this plugin, simply use the command `cd /usr/src/errorlogmanager && ./uninstall.sh`. This will delete the compressed file as well as the installed plugin.
 
 ---
 
