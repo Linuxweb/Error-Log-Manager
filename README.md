@@ -1,4 +1,4 @@
-# ConfigServer-Error-Log-Remover
+# Error Log Remover
 This plugin is used to find all error logs in the /home directory where the user can then view them in ConfigServer Explorer, or delete them entirely.
 
 ## Features
