@@ -11,7 +11,7 @@ This plugin is used to find all error logs in the /home directory where the user
 
 ## Installation Steps
 ### Install directly from GitHub
-With this nifty command, you can download and install the plugin directly from this repository all in one go: `sudo sh -c 'cd /usr/src && curl -L https://github.com/Linuxweb/Error-Log-Manager/raw/main/errorlogmanager.tar.gz -o errorlogmanager.tar.gz && tar -xzf errorlogmanager.tar.gz && cd errorlogmanager && ./install.sh'`
+With this nifty command, you can download and install the plugin directly from this repository all in one go: `sudo sh -c 'cd /usr/src && curl -L https://github.com/Linuxweb/Error-Log-Manager/blob/main/errorlogmanager.tar.gz -o errorlogmanager.tar.gz && tar -xzf errorlogmanager.tar.gz && cd errorlogmanager && ./install.sh'`
 
 ### Install manually
 1. First, you'll need to download `errorlogmanager.tar.gz` from this repository.
